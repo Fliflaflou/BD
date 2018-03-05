@@ -1,0 +1,116 @@
+body {
+ padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 40px;
+  padding-top: 50px;
+  margin-right: 30px:
+}
+
+section {
+
+}
+
+[class*="col-"], footer {
+  background-color: lightgreen;
+  z-index: 0;
+  border: 2px solid black;
+  border-radius: 6px;
+  line-height: 40px;
+  text-align: center;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.inline-form input {
+  display: inline-block;
+  width: 100px;
+}
+
+/* ////////////////////////////////// TEST Transition ////////////////////////// */
+/* ///////////////////////MEttre une image au premier plan///////////////////// */
+
+/* ////////////////////////////////////   IMAGE /////////////////////////////// */
+
+.image {
+  background-color: red;
+  opacity: 0.3;
+}
+.premier-plan {
+z-index: 4;
+position: absolute;
+width: 455px;
+height: 320px;
+}
+
+img {
+  width: 100%;
+}
+
+#row {
+
+}
+
+#page {
+  background-color: black;
+}
+
+/* ////////////////////////////////////   Case /////////////////////////////// */
+
+.case-test {
+padding: 0px;
+padding-bottom: 0px;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+.poum {
+  height: 320.73px;
+  width: 455px;
+}
+
+.case-2 {
+padding: 0px;
+padding-bottom: 0px;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.overlay {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+}
+
+
+/* ///////////////////////////////Liste///////////////////////// */
+ul {
+  list-style: none;
+}
+/* ///////////////////////////////Button///////////////////////// */
+
+.btn-lg {
+width: 50px;
+height: 50px;
+border-radius: 25px;
+background-color: inherit;
+}
+/* ///////////////////////////////Animation/////////////////////// */
+
+@keyframes apparition {
+  from {
+    margin-left:100%;
+    width:300%
+  }
+
+  to {
+    margin-left:0%;
+    width:100%;
+  }
+  }
+
+}

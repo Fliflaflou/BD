@@ -1,0 +1,175 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>ProtoBD@</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="bootstrap/css/bootstrap.css" />
+		<link rel="stylesheet" href="tuto.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+	</head>
+
+
+ <body>
+    <div class="container">
+
+      <header class="row">
+        <div class="col-xs-12">
+					<nav class="navbar navbar-inverse">
+	         <div class="container-fluid">
+						 <ul class="nav navbar-nav">
+							 <li class="active"> <a href="protoBDA">Page Principale</a> </li>
+							 <li> <a href="casetest.html">Case test</a> </li>
+							 <li> <a href="bacsable.html">animations</a> </li>
+							 <li> <a href="#">Références</a> </li>
+						 </ul>
+	           <form class="navbar-form navbar-right inline-form">
+	             <div class="form-group">
+	               <input type="search" class="input-sm form-control" placeholder="Recherche">
+	               <button type="submit" class="btn btn-primary btn-sm"><span class="glyphicon glyphicon-eye-open"></span> Chercher</button>
+	             </div>
+	           </form>
+	         </div>
+	       </nav>
+        </div>
+      </header>
+      <div class="row">
+        <nav class="col-xs-2">
+					  Menu/consignes
+					<ul>
+						<li class="col-xs-12 col-sm-12"><a href="casetest.html">Case</a></li>
+						<li class="col-xs-12" href="anim">Animation</li>
+						<li></li>
+					</ul>
+
+        </nav>
+        <section class="col-xs-10">
+					          Section
+										<div class="row">
+							       <div class="col-xs-4 col-sm-4" id="case">
+											 <div class="row"> Case 1 </div>
+
+							        <div class="image col-xs-4 col-sm-4 col-md-4">Image 1</div>
+							        <div class="image col-xs-4 col-sm-4 col-md-4">Image 2</div>
+							        <div class="image col-xs-4 col-sm-4 col-md-4">Image 3</div>
+							        <div class="image col-xs-4 col-sm-4 col-md-4">Image 4</div>
+							        <div class="image col-xs-4 col-sm-4 col-md-4">Image 5</div>
+							        <div class="image col-xs-4 col-sm-4 col-md-4">Image 6</div>
+							        <div class="image col-xs-4 col-sm-4 col-md-4">Image 7</div>
+							        <div class="image col-xs-4 col-sm-4 col-md-4">Image 8</div>
+							        <div class="image col-xs-4 col-sm-4 col-md-4">Image 9</div>
+							        <div class="image col-xs-4 col-sm-4 col-md-4">Image 10</div>
+							        <div class="image col-xs-4 col-sm-4 col-md-4">Image 11</div>
+											<div class="image col-xs-4 col-sm-4 col-md-4">Image 12</div>
+							      </div>
+										<div class="col-xs-4 col-sm-4" id="case">
+											<div class="row"> Case 2 </div>
+
+										 <div class="col-xs-4 col-sm-4 col-md-4">Image 1</div>
+										 <div class="col-xs-4 col-sm-4 col-md-4">Image 2</div>
+										 <div class="col-xs-4 col-sm-4 col-md-4">Image 3</div>
+										 <div class="col-xs-4 col-sm-4 col-md-4">Image 4</div>
+										 <div class="col-xs-4 col-sm-4 col-md-4">Image 5</div>
+										 <div class="col-xs-4 col-sm-4 col-md-4">Image 6</div>
+										 <div class="col-xs-4 col-sm-4 col-md-4">Image 7</div>
+										 <div class="col-xs-4 col-sm-4 col-md-4">Image 8</div>
+										 <div class="col-xs-4 col-sm-4 col-md-4">Image 9</div>
+										 <div class="col-xs-4 col-sm-4 col-md-4">Image 10</div>
+										 <div class="col-xs-4 col-sm-4 col-md-4">Image 11</div>
+										 <div class="col-xs-4 col-sm-4 col-md-4">Image 12</div>
+									 </div>
+									 <div class="col-xs-4 col-sm-4" id="case">
+										 <div class="row"> Case 3 </div>
+
+										<div class="col-xs-4 col-sm-4 col-md-4">Image 1</div>
+										<div class="col-xs-4 col-sm-4 col-md-4">Image 2</div>
+										<div class="col-xs-4 col-sm-4 col-md-4">Image 3</div>
+										<div class="col-xs-4 col-sm-4 col-md-4">Image 4</div>
+										<div class="col-xs-4 col-sm-4 col-md-4">Image 5</div>
+										<div class="col-xs-4 col-sm-4 col-md-4">Image 6</div>
+										<div class="col-xs-4 col-sm-4 col-md-4">Image 7</div>
+										<div class="col-xs-4 col-sm-4 col-md-4">Image 8</div>
+										<div class="col-xs-4 col-sm-4 col-md-4">Image 9</div>
+										<div class="col-xs-4 col-sm-4 col-md-4">Image 10</div>
+										<div class="col-xs-4 col-sm-4 col-md-4">Image 11</div>
+										<div class="col-xs-4 col-sm-4 col-md-4">Image 12</div>
+									</div>
+									<div class="col-xs-4 col-sm-4" id="case">
+										<div class="row"> Case 4 </div>
+
+									 <div class="col-xs-4 col-sm-4 col-md-4">Image 1</div>
+									 <div class="col-xs-4 col-sm-4 col-md-4">Image 2</div>
+									 <div class="col-xs-4 col-sm-4 col-md-4">Image 3</div>
+									 <div class="col-xs-4 col-sm-4 col-md-4">Image 4</div>
+									 <div class="col-xs-4 col-sm-4 col-md-4">Image 5</div>
+									 <div class="col-xs-4 col-sm-4 col-md-4">Image 6</div>
+									 <div class="col-xs-4 col-sm-4 col-md-4">Image 7</div>
+									 <div class="col-xs-4 col-sm-4 col-md-4">Image 8</div>
+									 <div class="col-xs-4 col-sm-4 col-md-4">Image 9</div>
+									 <div class="col-xs-4 col-sm-4 col-md-4">Image 10</div>
+									 <div class="col-xs-4 col-sm-4 col-md-4">Image 11</div>
+									 <div class="col-xs-4 col-sm-4 col-md-4">Image 12</div>
+								 </div>
+								 <div class="col-xs-4 col-sm-4" id="case">
+									 <div class="row"> Case 5 </div>
+
+									<div class="col-xs-4 col-sm-4 col-md-4">Image 1</div>
+									<div class="col-xs-4 col-sm-4 col-md-4">Image 2</div>
+									<div class="col-xs-4 col-sm-4 col-md-4">Image 3</div>
+									<div class="col-xs-4 col-sm-4 col-md-4">Image 4</div>
+									<div class="col-xs-4 col-sm-4 col-md-4">Image 5</div>
+									<div class="col-xs-4 col-sm-4 col-md-4">Image 6</div>
+									<div class="col-xs-4 col-sm-4 col-md-4">Image 7</div>
+									<div class="col-xs-4 col-sm-4 col-md-4">Image 8</div>
+									<div class="col-xs-4 col-sm-4 col-md-4">Image 9</div>
+									<div class="col-xs-4 col-sm-4 col-md-4">Image 10</div>
+									<div class="col-xs-4 col-sm-4 col-md-4">Image 11</div>
+									<div class="col-xs-4 col-sm-4 col-md-4">Image 12</div>
+								</div>
+								<div class="col-xs-4 col-sm-4" id="case">
+									<div class="row"> Case 6 </div>
+
+								 <div class="col-xs-4 col-sm-4 col-md-4">Image 1</div>
+								 <div class="col-xs-4 col-sm-4 col-md-4">Image 2</div>
+								 <div class="col-xs-4 col-sm-4 col-md-4">Image 3</div>
+								 <div class="col-xs-4 col-sm-4 col-md-4">Image 4</div>
+								 <div class="col-xs-4 col-sm-4 col-md-4">Image 5</div>
+								 <div class="col-xs-4 col-sm-4 col-md-4">Image 6</div>
+								 <div class="col-xs-4 col-sm-4 col-md-4">Image 7</div>
+								 <div class="col-xs-4 col-sm-4 col-md-4">Image 8</div>
+								 <div class="col-xs-4 col-sm-4 col-md-4">Image 9</div>
+								 <div class="col-xs-4 col-sm-4 col-md-4">Image 10</div>
+								 <div class="col-xs-4 col-sm-4 col-md-4">Image 11</div>
+								 <div class="col-xs-4 col-sm-4 col-md-4">Image 12</div>
+							 </div>
+									</div>
+        </section>
+      <footer class="row">
+				<div class="col-xs-12">
+          Pied de page
+				</div>
+      </footer>
+    </div>
+
+	<section class="container">
+	<!--	<div class="row">
+ 			<div class="row">
+        <div class="col-xs-4 col-sm-3 col-md-2"><img src="chouette.jpg" alt="Tigre" ></div>
+        <div class="col-xs-4 col-sm-3 col-md-2"><img src="chouette.jpg" alt="Tigre" ></div>
+        <div class="col-xs-4 col-sm-3 col-md-2"><img src="chouette.jpg" alt="Tigre" ></div>
+        <div class="col-xs-4 col-sm-3 col-md-2"><img src="chouette.jpg" alt="Tigre" ></div>
+        <div class="col-xs-4 col-sm-3 col-md-2"><img src="chouette.jpg" alt="Tigre" ></div>
+        <div class="col-xs-4 col-sm-3 col-md-2"><img src="chouette.jpg" alt="Tigre" ></div>
+        <div class="col-xs-4 col-sm-3 col-md-2"><img src="chouette.jpg" alt="Tigre" ></div>
+        <div class="col-xs-4 col-sm-3 col-md-2"><img src="chouette.jpg" alt="Tigre" ></div>
+        <div class="col-xs-4 col-sm-3 col-md-2"><img src="chouette.jpg" alt="Tigre" ></div>
+        <div class="col-xs-4 col-sm-3 col-md-2"><img src="chouette.jpg" alt="Tigre" ></div>
+      			</div>
+		</div>
+	</section> -->
+
+</body>
+
+</html>
